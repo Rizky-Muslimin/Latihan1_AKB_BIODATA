@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Biodata-AKB-IF1</string>
+    <string name="nama">Nama Lengkap :Rizky Muslimin</string>
+    <string name="nim">NIM :10118002</string>
+    <string name="kelas">Kelas :IF-1</string>
+    <string name="jenisKelamin">Jenis Kelamin :Laki-Laki</string>
+    <string name="tempatTanggalLahir">Tempat Tanggal Lahir : Selat Nasik, 12 Juli 2000</string>
+    <string name="alamat">Alamat Rumah     : Jln.Anwar Komplek Marakas Blok D11</string>
+    <string name="golDarah">Golongan Darah : O</string>
+    <string name="makananKesukaan">Makanan Favorit : Nasi Goreng</string>
+    <string name="minumanKesukaan">Minuman Favorit : Es Jeruk</string>
+    <string name="hobi">Hobi : Bermain Games</string>
+    <string name="laguFavorit">Lagu Favorit : Maps - Maroon 5</string>
+    <string name="FilmFavorit">Film Favorit : One Piece</string>
+    <string name="pekerjaanYangDiinginkan">Pekerjaan yang diinginkan setelah kuliah :</string>
+    <string name="pekerjaanYangDiinginkanValue">belum tahu</string>
+
+</resources>
